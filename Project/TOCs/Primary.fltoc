@@ -12,7 +12,13 @@
     ChapterNumberReset="continue" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/a9.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/a9.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    AutoMerge="before-head"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/a8.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
