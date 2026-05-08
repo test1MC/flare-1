@@ -3,7 +3,13 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Topic.htm" />
+    Link="/Content/Topic.htm"
+    IsTest="true"
+    StartSection="false"
+    TestPassScore="75"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/a9.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
