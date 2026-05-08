@@ -18,7 +18,8 @@
     VolumeNumberReset="same"
     ChapterNumberReset="continue"
     ComputeToc="false"
-    ReplaceMergeNode="false" />
+    ReplaceMergeNode="false"
+    StartSection="false" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/a8.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
